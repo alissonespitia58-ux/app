@@ -1,2 +1,2 @@
-# app
-Pagina web de juego
+# MotarlKombat
+Ayudas para mortal kombat
